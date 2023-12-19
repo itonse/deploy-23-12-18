@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Deploy231218Application {
 
     public static void main(String[] args) {
+        System.out.println("안녕하세요~~~");
         SpringApplication.run(Deploy231218Application.class, args);
     }
 
